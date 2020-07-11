@@ -2,6 +2,10 @@
   "name": "wzy-gulp",
   "version": "1.0.0",
   "main": "lib/index.js",
+  "files": [
+    "lib",
+    "bin"
+  ],
   "bin": "bin/wzy-gulp.js",
   "license": "MIT",
   "dependencies": {
