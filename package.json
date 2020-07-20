@@ -1,6 +1,6 @@
 {
   "name": "wzy-gulp",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "lib/index.js",
   "files": [
     "lib",
@@ -8,7 +8,7 @@
   ],
   "bin": "bin/wzy-gulp.js",
   "license": "MIT",
-  "peerdependencies": {
+  "dependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "browser-sync": "^2.26.7",
